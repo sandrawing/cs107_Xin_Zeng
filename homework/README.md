@@ -10,7 +10,7 @@
 
 3. Lecture 3
 
-* 1. Lots of expectations
+* Lots of expectations
 
 4. Lecture 4
 
@@ -24,3 +24,4 @@
 
 
 [Course Website](https://harvard-iacs.github.io/2020-CS107/)
+[Course Materials](https://harvard-iacs.github.io/2020-CS107/pages/materials.html)
