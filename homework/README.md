@@ -6,15 +6,15 @@
 
 2. Lecture 2
 
-⋅⋅* Learn lots of interesting ideas in this courses
+* Learn lots of interesting ideas in this courses
 
 3. Lecture 3
 
-⋅⋅1. Lots of expectations
+* 1. Lots of expectations
 
 4. Lecture 4
 
-⋅⋅⋅Nice
+* Nice
 
 
 | Office Hour   | Courses       | PP    |
